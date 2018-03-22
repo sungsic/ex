@@ -9,6 +9,7 @@ public class HelloGit {
 		System.out.println("2_add_hotfix_git");
 		//2. marge �� ������ �귣ġ ���� !!
 		System.out.println("3_add_master");
+		System.out.println("4_git_hub_master");
 	}
 
 }
